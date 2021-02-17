@@ -1,0 +1,12 @@
+16:30:28.142 [main] ERROR ar.com.latitud.sync.controller.Start - Error
+java.lang.NullPointerException: null
+	at ar.com.latitud.sync.controller.Start.start(Start.kt:34)
+	at ar.com.latitud.sync.controller.Start.access$start(Start.kt:16)
+	at ar.com.latitud.sync.controller.Start$Companion.main(Start.kt:63)
+	at ar.com.latitud.sync.controller.Start.main(Start.kt)
+16:31:16.431 [main] ERROR ar.com.latitud.sync.controller.Start - Error
+java.lang.NullPointerException: null
+	at ar.com.latitud.sync.controller.Start.start(Start.kt:34)
+	at ar.com.latitud.sync.controller.Start.access$start(Start.kt:16)
+	at ar.com.latitud.sync.controller.Start$Companion.main(Start.kt:63)
+	at ar.com.latitud.sync.controller.Start.main(Start.kt)

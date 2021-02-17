@@ -1,0 +1,11 @@
+{
+  "name": "ApiSync",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "^8.2.7",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "kafka-node": "^5.0.0"
+  }
+}

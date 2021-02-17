@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty:jetty-continuation:9.3.0.RC0" type="repository">
+    <properties maven-id="org.eclipse.jetty:jetty-continuation:9.3.0.RC0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-continuation/9.3.0.RC0/jetty-continuation-9.3.0.RC0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
